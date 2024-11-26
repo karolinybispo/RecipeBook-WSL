@@ -1,0 +1,56 @@
+*.iml
+# Diretórios gerados automaticamente
+/build/
+.gradle/
+.idea/
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Arquivos gerados automaticamente
+gradle/wrapper/gradle-wrapper.jar
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.swp
+
+# Arquivos do sistema operacional
+Thumbs.db
+
+# Arquivos gerados automaticamente
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.keystore
+
+# Cache do Android Lint
+/lint/intermediates/
+/lint/generated/
+
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+
+#pastas
+/gradle/
+/test/
+
+proguard-rules.pro
+
+/androidTest/

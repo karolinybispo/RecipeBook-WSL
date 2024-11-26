@@ -1,0 +1,15 @@
+/build
+
+/test/
+
+androidTest
+
+xml
+
+values
+values-night
+
+drawable/
+
+test
+
